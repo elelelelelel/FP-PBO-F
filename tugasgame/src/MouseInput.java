@@ -29,6 +29,7 @@ public class MouseInput implements MouseListener, MouseMotionListener {
 		for(int i=0;i<GamePlay.launcher.buttons.length;i++) {
 			Button button = GamePlay.launcher.buttons[i];
 			
+			
 			if(x>=button.getX()&&y>=button.getY()&&x<=button.getX()+button.getWidth()&&y<=button.getY()+button.getHeight()) 
 				button.triggerEvent();
 		}

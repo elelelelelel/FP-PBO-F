@@ -10,3 +10,6 @@ Upnormal Snake adalah game arcade yang dimainkan dengan cara mengarahkan ular ke
 
 ### Referensi
 youtube channel Gung Bara, Yudha Adhi, dan Akbel Ta  
+
+## Link Youtube - Video Demo
+https://youtu.be/BtjizdEh3_U
